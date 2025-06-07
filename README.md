@@ -13,21 +13,18 @@ A simple and secure Bash script to automate the creation of new sudo users on De
 ## 🚀 How to Use
 
 1.  **Download the script:**
-    ```bash
-    git clone [https://github.com/ wizardOfOz669/linux-user-creator.git](https://github.com/ wizardOfOz669/linux-user-creator.git)
+    ash
+    git clone  https://github.com/wizardOfOz669/auto-user-creator/blob/main/umakerV1.sh (https://github.com/wizardOfOz669/lauto-user-creator.git)
     cd linux-user-creator
-    ```
-    (استبدل `YourUsername` باسم المستخدم الخاص بك)
 
 2.  **Make it executable:**
     ```bash
     chmod +x umakerV1.sh 
     ```
-    (استبدل `umaker.sh` بالاسم الذي اخترته لملف السكربت)
 
 3.  **Run the script:**
     ```bash
-    ./umaker.sh
+    ./umakerV1.sh
     ```
 
 ## ⚠️ Disclaimer
