@@ -8,7 +8,7 @@ This method is best if you want to keep the project folder.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/wizardOfOz669/auto-user-creator.git](https://github.com/wizardOfOz669/auto-user-creator.git)
+    git clone https://github.com/wizardOfOz669/auto-user-creator.
     ```
 
 2.  **Navigate to the directory:**
